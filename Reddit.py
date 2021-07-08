@@ -33,7 +33,7 @@ reddit = praw.Reddit(client_id='Wiv9jPFUOo3klw', \
                      client_secret='_sbHKx0nqWdYt_4ZIY75Yb8SPmZ-Xg', \
                      user_agent='Seif_Mejri', \
                      username='MrSifon98 ', \
-                     password='01041998')
+                     password='*****')
       
 subreddit = reddit.subreddit('Nootropics')
 top_subreddit = subreddit.top(limit=100000)
